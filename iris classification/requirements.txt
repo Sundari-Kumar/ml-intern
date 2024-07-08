@@ -1,0 +1,6 @@
+## requirements
+- Python
+- scikit-learn
+- TensorFlow
+- Matplotlib
+- Pandas
